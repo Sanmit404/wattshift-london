@@ -1,0 +1,27 @@
+n_households_any         5556
+n_households_kept        4169
+n_treated                844
+n_control                3325
+main
+  coef                 -0.3228705092226449
+  se                   0.07100947074449925
+  t                    -4.546865451009661
+  p                    5.454076120292584e-06
+  ci_low               -0.4620488919260469
+  ci_high              -0.1836921265192428
+  control_post_mean    10.027322993223613
+  pct_of_control       -3.219907341578986
+  n_obs                75042
+pretrend_p               0.26666280480716664
+n_household_days         2198961
+se_inflation             3.913443334570574
+mde_kwh                  0.19893906809572792
+mde_pct                  1.9839698813947588
+attrition_tou            0.06797853309481217
+attrition_std            0.07921462423832092
+attrition_p              0.20778436884887563
+dropout_base_diff        0.6758398339678866
+dropout_base_p           0.41011279027397585
+n_dropouts_treated       74
+high_pct                 -4.573403143276389
+low_pct                  6.314551478341812

@@ -1,0 +1,17 @@
+# Raw and intermediate data are large and are downloaded/rebuilt locally.
+data/
+
+# Python artifacts and local environments.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and operating-system files.
+.DS_Store
+.idea/
+.vscode/
+
+# Local logs and interrupted downloads.
+*.log
+*.part
